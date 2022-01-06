@@ -2,5 +2,6 @@ src/data/*
 src/liboptpy/
 srt/
 **/__pycache__/
+**/.mypy_cache/
 FastApproximateQAP-master/
 GLAG/
