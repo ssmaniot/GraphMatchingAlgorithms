@@ -1,0 +1,6 @@
+src/data/*
+src/liboptpy/
+srt/
+**/__pycache__/
+FastApproximateQAP-master/
+GLAG/
